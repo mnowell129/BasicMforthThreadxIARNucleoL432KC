@@ -1,0 +1,10 @@
+*.wsdt
+*.crun
+*.dnx
+*.ps1
+settings
+Exe
+List
+Obj
+SigGen
+*.vtg
